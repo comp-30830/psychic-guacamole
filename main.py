@@ -1,7 +1,8 @@
 def main():
-    print("Helllloooooooooooooo, World!")
+    print("Hellllo, World!")
+    # print("Esh")
     # print("Yo, sup!")
-    print("Bleh")
+    # print("Bleh")
 
 
 if __name__ == '__main__':
