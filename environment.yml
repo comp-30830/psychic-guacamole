@@ -5,4 +5,7 @@ dependencies:
   - python
   - scikit-learn
   - autopep8
+  - jupyterlab
+  - numpy
+  - pandas
 prefix: C:\Users\XPS 13\anaconda3\envs\comp30830
